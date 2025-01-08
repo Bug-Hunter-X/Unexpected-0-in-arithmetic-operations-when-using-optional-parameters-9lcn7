@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle bug in Lua related to its handling of nil values in arithmetic operations.  The function `foo` takes an optional parameter, and the behaviour when it's missing differs from what most developers might expect. The solution showcases best practices to avoid this issue and provide more robust code.
